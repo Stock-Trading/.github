@@ -1,6 +1,6 @@
 # .github
 
-Stoct Trading is a protfolio/training project where we, Piotr Grochowiecki [@piotrgrochowiecki](https://github.com/piotrgrochowiecki) and Weronika Konior (Weronika.KoniorX@gmail.com), learn about event driven architecture by building working system. 
+Stock Trading is a protfolio/training project where we, Piotr Grochowiecki [@piotrgrochowiecki](https://github.com/piotrgrochowiecki) and Weronika Konior (Weronika.KoniorX@gmail.com), learn about event driven architecture by building working system. 
 
 Topic of the project is stock trading.
 
